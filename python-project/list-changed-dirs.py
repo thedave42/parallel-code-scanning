@@ -6,7 +6,7 @@
 # directory contains the subdirectories "foo", "bar" and "baz", the output
 # will be (the order of the directories is not necessarily alphabetical):
 #
-# ["foo", "bar", "baz"]
+# ["foo", "bar", "baz"] change
 #
 from genericpath import isdir
 import json

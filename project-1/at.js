@@ -14,7 +14,7 @@ import baseFlatten from './.internal/baseFlatten.js'
  * const object = { 'a': [{ 'b': { 'c': 3 } }, 4] }
  *
  * at(object, ['a[0].b.c', 'a[1]'])
- * // => [3, 4]
+ * // => [3, 4] another change
  */
 const at = (object, ...paths) => baseAt(object, baseFlatten(paths, 1))
 
