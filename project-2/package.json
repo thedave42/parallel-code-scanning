@@ -72,7 +72,7 @@
     "jest-diff": "^25.2.6",
     "jest-environment-jsdom-sixteen": "^1.0.3",
     "jest-snapshot-serializer-raw": "^1.1.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "minimist": "^1.2.3",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
