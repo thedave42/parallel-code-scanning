@@ -1,5 +1,0 @@
-name: "CodeQL config"
-
-paths:
-  - project-1
-  - project-3
